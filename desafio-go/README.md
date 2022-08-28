@@ -1,3 +1,5 @@
+repositório dockerHub desafio GO: https://hub.docker.com/r/gustavolopesv3/codeeducation
+
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
